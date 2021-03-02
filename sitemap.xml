@@ -2,21 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/03/02/hello-world/</loc>
+    <loc>https://coinshen.cc/2021/03/02/hello-world/</loc>
     
     <lastmod>2021-03-02</lastmod>
     
   </url>
   
+  <url>
+    <loc>https://coinshen.cc/2021/03/02/Test/</loc>
+    
+    <lastmod>2021-02-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coinshen.cc/about/index.html</loc>
+    
+    <lastmod>2021-02-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coinshen.cc/comments/index.html</loc>
+    
+    <lastmod>2021-02-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coinshen.cc/tags/index.html</loc>
+    
+    <lastmod>2021-02-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coinshen.cc/categories/index.html</loc>
+    
+    <lastmod>2021-02-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coinshen.cc/space/index.html</loc>
+    
+    <lastmod>2021-02-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coinshen.cc/link/index.html</loc>
+    
+    <lastmod>2021-02-17</lastmod>
+    
+  </url>
+  
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://coinshen.cc/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://coinshen.cc/tags/tag2/</loc>
+    <lastmod>2021-03-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://coinshen.cc/categories/categories1/</loc>
+    <lastmod>2021-03-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
