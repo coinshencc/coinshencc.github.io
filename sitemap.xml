@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://coinshen.cc/about/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://coinshen.cc/comments/index.html</loc>
     
     <lastmod>2021-03-02</lastmod>
@@ -24,13 +31,6 @@
   
   <url>
     <loc>https://coinshen.cc/2021/03/02/Test/</loc>
-    
-    <lastmod>2021-02-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://coinshen.cc/about/index.html</loc>
     
     <lastmod>2021-02-26</lastmod>
     
