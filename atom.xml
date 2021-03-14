@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>CoinShen&#39;s Blog</title>
+  <title>CoinShen</title>
   <icon>https://www.gravatar.com/avatar/f504a446ada789dadc3098f453478fb2</icon>
   
   <link href="https://coinshen.cc/atom.xml" rel="self"/>
